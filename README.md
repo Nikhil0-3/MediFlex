@@ -27,41 +27,7 @@ MediFlex is an **IoT-integrated smart medication system** that leverages **Machi
 
 ---
 
-## 📸 Application Screenshots
 
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="ANROID_APP_FILE_MEDIFLEX/App_Screenshots/2. App_SIGN_UP.png" alt="Sign Up Screen" width="300"/>
-        <br/>
-        <em>Sign Up Screen</em>
-      </td>
-      <td align="center">
-        <img src="ANROID_APP_FILE_MEDIFLEX/App_Screenshots/3. App_SIGN_IN.png" alt="Sign In Screen" width="300"/>
-        <br/>
-        <em>Sign In Screen</em>
-      </td>
-    </tr>
-  </table>
-</div>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="ANROID_APP_FILE_MEDIFLEX/App_Screenshots/1. App_GET_STARTED.png" alt="Get Started Screen" width="300"/>
-        <br/>
-        <em>App Interface</em>
-      </td>
-      <td align="center">
-        <img src="ANROID_APP_FILE_MEDIFLEX/App_Screenshots/4.App_Interface.png" alt="MediFlex Main Interface" width="300"/>
-        <br/>
-        
-  </table>
-</div>
-
----
 
 ## 🏥 Problem Statement
 
@@ -280,6 +246,34 @@ Sequential([
 - Offline mode for basic functionality
 
 ---
+## 📸 Application Screenshots
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="ANROID_APP_FILE_MEDIFLEX/App_Screenshots/2. App_SIGN_UP.png" alt="Sign Up Screen" width="200"/>
+        <br/>
+        <em>Sign Up Screen</em>
+      </td>
+      <td align="center">
+        <img src="ANROID_APP_FILE_MEDIFLEX/App_Screenshots/3. App_SIGN_IN.png" alt="Sign In Screen" width="200"/>
+        <br/>
+        <em>Sign In Screen</em>
+      </td>
+      <td align="center">
+        <img src="ANROID_APP_FILE_MEDIFLEX/App_Screenshots/1. App_GET_STARTED.png" alt="Get Started Screen" width="200"/>
+        <br/>
+        <em>App Interface</em>
+      </td>
+      <td align="center">
+        <img src="ANROID_APP_FILE_MEDIFLEX/App_Screenshots/4.App_Interface.png" alt="MediFlex Main Interface" width="175"/>
+        <br/>
+  </table>
+</div>
+
+---
 
 ## 🔐 System Components (Future IoT Integration)
 
@@ -354,17 +348,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - System recommendations are based on limited symptom data
 - Individual medical conditions may require specialized care
 
-## 📚 References
-
-This system is based on research presented in:
-
-**"IoT Integrated Smart Medication System Using Machine Learning for Enhanced Rural Healthcare"**
-
-Key research papers:
-1. Machine Learning in Healthcare Automation (2021-2023)
-2. IoT-based Medication Dispensing Systems (2018-2024)
-3. CNN Applications in Medical Diagnosis (2020-2024)
-4. Smart Healthcare Technologies (2022-2024)
 
 ## 📞 Contact & Support
 
