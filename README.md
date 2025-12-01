@@ -29,19 +29,7 @@ MediFlex is an **IoT-integrated smart medication system** that leverages **Machi
 
 ## 📸 Application Screenshots
 
-### Web Application Interface
-<div align="center">
-  <img src="ANROID_APP_FILE_MEDIFLEX/App_Screenshots/4.App_Interface.png" alt="MediFlex Main Interface" width="800"/>
-  <p><em>Main application interface showing symptom input and medicine recommendations</em></p>
-</div>
 
-### Get Started Screen
-<div align="center">
-  <img src="ANROID_APP_FILE_MEDIFLEX/App_Screenshots/1. App_GET_STARTED.png" alt="Get Started Screen" width="700"/>
-  <p><em>Choose between text input or selecting symptoms from a list</em></p>
-</div>
-
-### Android Mobile Application
 <div align="center">
   <table>
     <tr>
@@ -56,6 +44,20 @@ MediFlex is an **IoT-integrated smart medication system** that leverages **Machi
         <em>Sign In Screen</em>
       </td>
     </tr>
+  </table>
+</div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="ANROID_APP_FILE_MEDIFLEX/App_Screenshots/1. App_GET_STARTED.png" alt="Get Started Screen" width="300"/>
+        <br/>
+        <em>App Interface</em>
+      </td>
+      <td align="center">
+        <img src="ANROID_APP_FILE_MEDIFLEX/App_Screenshots/4.App_Interface.png" alt="MediFlex Main Interface" width="300"/>
+        <br/>
+        
   </table>
 </div>
 
@@ -368,7 +370,7 @@ Key research papers:
 
 For questions, suggestions, or collaboration opportunities:
 
-- **Email**: nikhilpatel0303@gmail.com
+- **Email**: nikhil.030305@gmail.com
 - **GitHub**: [Open an Issue](https://github.com/Nikhil0-3/MediFlex/issues)
 
 ## 🙏 Acknowledgments
