@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 <div align="center">
-  <img src="logo.png" alt="MediFlex Logo" width="200"/>
+  <img src="logo.png" alt="MediFlex Logo" width="400"/>
   <p><em>Empowering Healthcare Through Technology</em></p>
 </div>
 
@@ -340,24 +340,13 @@ For questions, suggestions, or collaboration opportunities:
 - **Email**: nikhil.030305@gmail.com
 - **GitHub**: [Open an Issue](https://github.com/Nikhil0-3/MediFlex/issues)
 
-## 🙏 Acknowledgments
-
-- Open-source community for excellent libraries and frameworks
-- Healthcare professionals for domain expertise
-- Research participants for valuable feedback
-- All contributors and supporters of this project
-
 ---
 
 <div align="center">
-  <img src="logo.png" alt="MediFlex Logo" width="120"/>
+  <img src="logo.png" alt="MediFlex Logo" width="170"/>
   <br/>
   <strong>Made with ❤️ by the MediFlex Team</strong>
   <br/>
   <em>Empowering Healthcare Through Technology</em>
   <br/><br/>
-  
-  [![GitHub stars](https://img.shields.io/github/stars/Nikhil0-3/MediFlex?style=social)](https://github.com/Nikhil0-3/MediFlex)
-  [![GitHub forks](https://img.shields.io/github/forks/Nikhil0-3/MediFlex?style=social)](https://github.com/Nikhil0-3/MediFlex)
-  [![GitHub watchers](https://img.shields.io/github/watchers/Nikhil0-3/MediFlex?style=social)](https://github.com/Nikhil0-3/MediFlex)
 </div>
