@@ -73,10 +73,7 @@ This system is based on research focusing on IoT-integrated smart medication sys
 - **Data Processing**: NumPy, Pandas, Scikit-learn
 - **NLP Techniques**: Tokenization, Vectorization
 
-### Web Application
-- **Frontend**: Streamlit 1.28.0
-- **UI/UX**: Custom CSS with gradient themes
-- **Visualization**: Matplotlib, Seaborn
+
 
 ### Additional Libraries
 - **Text Processing**: NLTK 3.8.1
