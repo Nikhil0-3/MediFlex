@@ -31,13 +31,13 @@ MediFlex is an **IoT-integrated smart medication system** that leverages **Machi
 
 ### Web Application Interface
 <div align="center">
-  <img src="4.App_Interface.png" alt="MediFlex Main Interface" width="800"/>
+  <img src="ANROID_APP_FILE_MEDIFLEX/App_Screenshots/4.App_Interface.png" alt="MediFlex Main Interface" width="800"/>
   <p><em>Main application interface showing symptom input and medicine recommendations</em></p>
 </div>
 
 ### Get Started Screen
 <div align="center">
-  <img src="1. App_GET_STARTED.png" alt="Get Started Screen" width="700"/>
+  <img src="ANROID_APP_FILE_MEDIFLEX/App_Screenshots/1. App_GET_STARTED.png" alt="Get Started Screen" width="700"/>
   <p><em>Choose between text input or selecting symptoms from a list</em></p>
 </div>
 
@@ -46,12 +46,12 @@ MediFlex is an **IoT-integrated smart medication system** that leverages **Machi
   <table>
     <tr>
       <td align="center">
-        <img src="2. App_SIGN_UP.png" alt="Sign Up Screen" width="300"/>
+        <img src="ANROID_APP_FILE_MEDIFLEX/App_Screenshots/2. App_SIGN_UP.png" alt="Sign Up Screen" width="300"/>
         <br/>
         <em>Sign Up Screen</em>
       </td>
       <td align="center">
-        <img src="3. App_SIGN_IN.png" alt="Sign In Screen" width="300"/>
+        <img src="ANROID_APP_FILE_MEDIFLEX/App_Screenshots/3. App_SIGN_IN.png" alt="Sign In Screen" width="300"/>
         <br/>
         <em>Sign In Screen</em>
       </td>
@@ -194,15 +194,16 @@ mediflex/
 ├── medicines.csv                   # Original dataset
 │
 ├── logo.png                        # Application logo
-├── 4.App_Interface.png             # Web application screenshot
-├── 1. App_GET_STARTED.png          # Get started screen
-├── 2. App_SIGN_UP.png              # Sign-up interface (Android app)
-├── 3. App_SIGN_IN.png              # Sign-in interface (Android app)
 │
 ├── requirements.txt                # Python dependencies
 ├── README.md                       # Project documentation
 │
-├── ANDROID_APP_FILE_MEDIFLEX/     # Android mobile application
+├── ANROID_APP_FILE_MEDIFLEX/      # Android mobile application
+│   ├── App_Screenshots/            # Application screenshots
+│   │   ├── 1. App_GET_STARTED.png  # Get started screen
+│   │   ├── 2. App_SIGN_UP.png      # Sign-up interface
+│   │   ├── 3. App_SIGN_IN.png      # Sign-in interface
+│   │   └── 4.App_Interface.png     # Web application interface
 │   └── MediFlex/                   # Android Studio project
 │
 └── venv/                          # Virtual environment (not in repo)
