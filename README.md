@@ -31,7 +31,7 @@ MediFlex is an **IoT-integrated smart medication system** that leverages **Machi
 
 ### User Interface
 <div align="center">
-  <img src="image.png" alt="MediFlex Main Interface" width="800"/>
+  <img src="4.App_Interface.png" alt="MediFlex Main Interface" width="800"/>
   <p><em>Main application interface showing symptom input and medicine recommendations</em></p>
 </div>
 
@@ -135,7 +135,7 @@ streamlit run app.py
 
 #### Step 1: Choose Input Method
 <div align="center">
-  <img src="GET_STARTED.png" alt="Get Started Screen" width="700"/>
+  <img src="1. App_GET_STARTED.png" alt="Get Started Screen" width="700"/>
   <p><em>Choose between text input or selecting symptoms from a list</em></p>
 </div>
 
@@ -172,10 +172,10 @@ mediflex/
 ├── medicines.csv                   # Original dataset
 │
 ├── logo.png                        # Application logo
-├── image.png                       # Application screenshot
-├── GET_STARTED.png                 # UI screenshot
-├── SIGN_UP.png                     # Sign-up interface (Android app)
-├── SIGN_IN.png                     # Sign-in interface (Android app)
+├── 4.App_Interface.png             # Web application screenshot
+├── 1. App_GET_STARTED.png          # Get started screen
+├── 2. App_SIGN_UP.png              # Sign-up interface (Android app)
+├── 3. App_SIGN_IN.png              # Sign-in interface (Android app)
 │
 ├── requirements.txt                # Python dependencies
 ├── README.md                       # Project documentation
@@ -260,12 +260,12 @@ Sequential([
   <table>
     <tr>
       <td align="center">
-        <img src="SIGN_UP.png" alt="Sign Up" width="250"/>
+        <img src="2. App_SIGN_UP.png" alt="Sign Up" width="250"/>
         <br/>
         <em>Sign Up Screen</em>
       </td>
       <td align="center">
-        <img src="SIGN_IN.png" alt="Sign In" width="250"/>
+        <img src="3. App_SIGN_IN.png" alt="Sign In" width="250"/>
         <br/>
         <em>Sign In Screen</em>
       </td>
