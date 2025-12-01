@@ -29,10 +29,34 @@ MediFlex is an **IoT-integrated smart medication system** that leverages **Machi
 
 ## 📸 Application Screenshots
 
-### User Interface
+### Web Application Interface
 <div align="center">
   <img src="4.App_Interface.png" alt="MediFlex Main Interface" width="800"/>
   <p><em>Main application interface showing symptom input and medicine recommendations</em></p>
+</div>
+
+### Get Started Screen
+<div align="center">
+  <img src="1. App_GET_STARTED.png" alt="Get Started Screen" width="700"/>
+  <p><em>Choose between text input or selecting symptoms from a list</em></p>
+</div>
+
+### Android Mobile Application
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="2. App_SIGN_UP.png" alt="Sign Up Screen" width="300"/>
+        <br/>
+        <em>Sign Up Screen</em>
+      </td>
+      <td align="center">
+        <img src="3. App_SIGN_IN.png" alt="Sign In Screen" width="300"/>
+        <br/>
+        <em>Sign In Screen</em>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -134,10 +158,8 @@ streamlit run app.py
 ### Using the System
 
 #### Step 1: Choose Input Method
-<div align="center">
-  <img src="1. App_GET_STARTED.png" alt="Get Started Screen" width="700"/>
-  <p><em>Choose between text input or selecting symptoms from a list</em></p>
-</div>
+- **Text Input**: Type your symptoms naturally
+- **Select from List**: Choose from predefined symptom options
 
 #### Step 2: Enter Symptoms
 - **Text Input**: Describe your symptoms in natural language
@@ -249,29 +271,10 @@ Sequential([
 
 ### Features (Upcoming)
 - Native Android application for on-the-go access
-- User authentication and profile management
+- User authentication and profile management (See screenshots in Application Screenshots section above)
 - Symptom tracking and medication history
 - Push notifications for medication reminders
 - Offline mode for basic functionality
-
-### Screenshots
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="2. App_SIGN_UP.png" alt="Sign Up" width="250"/>
-        <br/>
-        <em>Sign Up Screen</em>
-      </td>
-      <td align="center">
-        <img src="3. App_SIGN_IN.png" alt="Sign In" width="250"/>
-        <br/>
-        <em>Sign In Screen</em>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
