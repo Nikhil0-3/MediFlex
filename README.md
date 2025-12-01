@@ -1,9 +1,16 @@
 # 💊 MediFlex - Intelligent Medicine Recommendation System
 
+<div align="center">
+  
+  <p><em>Iot Integrated Smart Medication System Using Machine Learning For Enhanced Rural Healthcare</em></p>
+</div>
+
+<div align="center">
+
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13.0-orange.svg)](https://www.tensorflow.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.28.0-red.svg)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+</div>
 
 <div align="center">
   <img src="logo.png" alt="MediFlex Logo" width="400"/>
