@@ -318,22 +318,6 @@ Sequential([
 - Real-time health monitoring
 - Collaborative filtering for personalized care
 
-## 🤝 Contributing
-
-We welcome contributions from the community! Here's how you can help:
-
-1. **Fork the Repository**
-2. **Create a Feature Branch** (`git checkout -b feature/AmazingFeature`)
-3. **Commit Changes** (`git commit -m 'Add AmazingFeature'`)
-4. **Push to Branch** (`git push origin feature/AmazingFeature`)
-5. **Open a Pull Request**
-
-### Contribution Areas
-- Model accuracy improvements
-- UI/UX enhancements
-- Documentation updates
-- Bug fixes and testing
-- New feature implementations
 
 ## 📄 License
 
